@@ -1,8 +1,11 @@
+body {
+    backgroud: #CCCCCC
+}
+
 P {
     text-align: center;
-    backgroud: #000000
 }
 
 strong{
-    color: white;
+    color: red;
 }
