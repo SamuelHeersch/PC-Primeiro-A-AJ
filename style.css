@@ -1,6 +1,11 @@
 body {
   backgroud: #000000
 }
+
 P {
-    text-align: center
+    text-align: center;
+}
+
+strong{
+    color: white;
 }
